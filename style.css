@@ -1,28 +1,30 @@
-.heading
-{
-    color: white;
+.heading{
+    margin: 0px;
+    box-shadow: 3px 3px 3px grey;
     font-weight: bold;
-    font-size:14px;
+    font-size: 15px;
     width: 100%;
-    margin: 0;
-    box-shadow: 3px 3px 3px gray;
 }
-.note
-{
+.note{
     color: black;
 }
 .copy_right_footer{
-width: 100%;
-text-align: center;
-bottom: 0;
-position: fixed;
-line-height: 3;
-font-size: 20px;
-font-weight: bold;
-background-color: gray;
-color: white;
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+    bottom: 0;
+    background-color: grey;
+    color: white;
+    position: fixed;
+    font-weight: bold;
+    font-size: 20px;
 }
-
+canvas{
+    box-shadow: 5px 5px 5px grey;
+    background-color: white;
+    border: 5px solid white;
+    border-radius: 20px;
+}
 
 
 
